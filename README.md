@@ -17,14 +17,15 @@ The project models the mechanics of continuous media by taking the infinitesimal
 
 ## Repository Structure
 
-* `La_cuerda_de_los_infinitos_pendulos.pdf`: The complete formal academic paper containing full algebraic derivations, analytical frameworks, and structured nomenclature.
+* `Continuum approximation of a string via infinite pendulums of infinitesimal length.pdf`: The complete formal academic paper containing full algebraic derivations, analytical frameworks, and structured nomenclature.
 * `src/`: Directory containing the numerical solvers and scripts (MATLAB) used to simulate the dynamics, solve the ODE systems (`ode45` framework), and plot the Poincaré sections.
 
 ## Documentation & Code
 
 The full mathematical paper with all derivations is available directly in this repository:
 
-👉 **[Read the Full Paper (PDF)](./La%20cuerda%20de%20los%20infinitos%20pendulos.pdf)**
+👉 **[Read the Full Paper (PDF)]([Continuum approximation of a string via infinite pendulums of infinitesimal length.pdf](https://github.com/user-attachments/files/28846242/Continuum.approximation.of.a.string.via.infinite.pendulums.of.infinitesimal.length.pdf)
+)**
 
 ## Author
 
