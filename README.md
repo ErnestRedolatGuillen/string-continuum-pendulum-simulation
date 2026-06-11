@@ -12,6 +12,9 @@ The project models the mechanics of continuous media by taking the infinitesimal
 * **Analytical Solutions:** Solving the resulting wave equation via separation of variables and Fourier series analysis.
 * **Nonlinear Dynamics & Chaos:** Implementation of numerical tools to model nonlinear perturbations, including the study of phase space trajectories and caothic behaviour through **Poincaré sections**.
 
+<img width="1841" height="1141" alt="Secciones de Poincaré múltiples" src="https://github.com/user-attachments/assets/4c862503-9c33-456b-ace6-96de35c2c847" />
+
+
 ## Repository Structure
 
 * `La_cuerda_de_los_infinitos_pendulos.pdf`: The complete formal academic paper containing full algebraic derivations, analytical frameworks, and structured nomenclature.
