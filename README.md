@@ -24,8 +24,7 @@ The project models the mechanics of continuous media by taking the infinitesimal
 
 The full mathematical paper with all derivations is available directly in this repository:
 
-👉 **[Read the Full Paper (PDF)]([Continuum approximation of a string via infinite pendulums of infinitesimal length.pdf](https://github.com/user-attachments/files/28846242/Continuum.approximation.of.a.string.via.infinite.pendulums.of.infinitesimal.length.pdf)
-)**
+👉 **[Read the Full Paper (PDF)](Continuum approximation of a string via infinite pendulums of infinitesimal length.pdf)**
 
 ## Author
 
